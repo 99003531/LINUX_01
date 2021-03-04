@@ -9,8 +9,7 @@
 #define Th_max 4 
   
 // Array 
-int a[max] = { 1, 5, 7, 10, 12, 14, 15, 18, 20, 
-               22, 25, 27, 300, 64, 110, 220 }; 
+int a[max] = { 1, 2, 5, 6, 33,78,22,90,55,67,77,20}; 
   
 // Array to store max of threads 
 int max_num[Th_max] = { 0 }; 
