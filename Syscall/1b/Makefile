@@ -3,7 +3,6 @@ PROJECT_NAME =TASK2
 SRC = src/count.c\
 main.c
 
-
 INC = -Iinc
 
 $(PROJECT_NAME).out : $(SRC)
