@@ -1,7 +1,7 @@
-SRC = *.c\
+SRC = *.c
 
 all: $(SRC)
-	gcc $(SRC) $(INC) -o a.out
+	gcc $(SRC) -o a.out
 
 run:
 	./a.out
